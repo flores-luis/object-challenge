@@ -11,24 +11,22 @@ const pokemon = [
         name: 'Dratini',
         type: 'Dragon',
         species: 'Dragon Pokemon',
-        height: (1.8,'m'),
-        weight: (3.3,'kg'),
-        ability: 'Shed Skin'
+        ability: 'Shed Skin',
+        photo: 'img/dratini.jpeg'
     },
     {
       name: 'Dragonair',
       type: 'Dragon',
       species: 'Dragon Pokemon',
-      height: (4.0,'m'),
-      weight: (16.5,'kg'),
-      ability: 'Marvel Scale'
+      ability: 'Marvel Scale',
+      photo: 'img/dragonair.jpeg'
+
   },
   {
     name: 'Dragonite',
     type: 'Dragon',
     species: 'Dragon Pokemon',
-    height: (2.2,'m'),
-    weight: (210,'kg'),
-    ability: 'Inner Focus'
+    ability: 'Inner Focus',
+    photo: 'img/dragonite.jpeg'
   }
 ];
